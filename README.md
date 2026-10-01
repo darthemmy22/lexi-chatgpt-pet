@@ -29,7 +29,7 @@ Copy the extracted `lexi` folder to `~/.codex/pets/`, then refresh the pet picke
 - Includes nine standard animation rows and sixteen look-direction frames.
 - Structural validation passed without errors or warnings. Installation on other devices has not been independently tested.
 - **Dot avatar compatibility is not verified.** Official Dot documentation describes built-in appearance customization but does not document importing these pet files. This release does not promise that Lexi can replace the Dot profile avatar.
-- The ChatGPT web pet uploader currently documents a different 1536 × 1872 format. Do not upload this version-2 desktop sheet there.
+- ChatGPT's current pet-upload preflight accepted this version-2 sheet on October 1, 2026 (1536 × 2288, no format errors). A format preflight does not verify Dot profile-avatar import.
 - These files provide an appearance only, not an agent, personality, voice, or app permissions.
 
 ## Use
