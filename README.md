@@ -4,6 +4,13 @@ Lexi is a miniature animated assistant with long dark wavy hair, black rectangul
 
 ![Lexi waving](preview.webp)
 
+## Themes
+
+- [Original Lexi](https://github.com/darthemmy22/lexi-chatgpt-pet/releases/tag/v1.0.0) — black dress and white cardigan.
+- [Office Lexi](https://github.com/darthemmy22/lexi-chatgpt-pet/releases/tag/office-lexi-v1.0.0) — blazer, notebook, and coffee.
+
+Office Lexi’s ZIP includes its own setup instructions; install its `office-lexi` folder.
+
 ## Download and install
 
 Download **Lexi-v1.0.0.zip** from this repository or its Releases page.
