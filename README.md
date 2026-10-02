@@ -4,7 +4,6 @@
 Lexi is a miniature animated assistant with long dark wavy hair, black rectangular glasses, a black dress, and a white cardigan.
 
 
-![Lexi waving](preview.webp)
 
 
 ## Themes
