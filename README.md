@@ -2,7 +2,7 @@
 
 Lexi is a miniature animated assistant with long dark wavy hair, black rectangular glasses, a black dress, and a white cardigan.
 
-![Lexi, Office Lexi, and Sgt Lexi side by side](https://raw.githubusercontent.com/darthemmy22/lexi-chatgpt-pet/c3b642c01be39a169a3791ca447bdfb9e8962bd4/all-three-lexi-side-by-side.webp)
+![Lexi, Office Lexi, and Sgt Lexi side by side](https://raw.githubusercontent.com/darthemmy22/lexi-chatgpt-pet/5beec4151beccf77ace2bce123dceaf51a945f16/all-three-lexi-side-by-side.webp)
 
 ## Themes
 
