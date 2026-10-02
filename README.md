@@ -2,7 +2,7 @@
 
 Lexi is a miniature animated assistant with long dark wavy hair, black rectangular glasses, a black dress, and a white cardigan.
 
-![Lexi, Office Lexi, and Sgt Lexi side by side](all-three-lexi-side-by-side.webp)
+![Lexi, Office Lexi, and Sgt Lexi side by side](https://raw.githubusercontent.com/darthemmy22/lexi-chatgpt-pet/c3b642c01be39a169a3791ca447bdfb9e8962bd4/all-three-lexi-side-by-side.webp)
 
 ## Themes
 
@@ -37,3 +37,4 @@ Copy the extracted `lexi` folder to `~/.codex/pets/`, then refresh the pet picke
 - Includes nine standard animation rows and sixteen look-direction frames.
 - Structural validation passed without errors or warnings. Installation on other devices has not been independently tested.
 - **Dot avatar compatibility is not verified.** Official Dot documentation describes built-in appearance customization but does not document importing these pet files. This release does not promise that Lexi can replace the Dot profile avatar.
+
